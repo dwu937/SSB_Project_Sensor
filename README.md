@@ -4,7 +4,7 @@ Github repository to store code for the dry lab portion of SSB project team's bi
 # Github Introduction
 Github is a remote database that you can store your work as you progress on projects. The following represents a schematic to illustrate how this works.
  ______________________         _______________________
-|                      |       |                      |
+|&nbsp;&nbsp;&nbsp;&nbsp;|       |                      |
 | David's Computer     |       |   Jenna's Computer   |   
 |______________________|       |______________________|
                   |   |          | |
