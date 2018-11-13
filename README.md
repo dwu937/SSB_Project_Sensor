@@ -1,10 +1,10 @@
 # SSB_Project_Sensor
 Github repository to store code for the dry lab portion of SSB project team's biosensor project
-@cr
+
 # Github Introduction
-Github is a remote database that you can store your work as you progress on projects. The following represents a schematic to illustrate how this works. @cr
-@cr
- ______________________         _______________________
+Github is a remote database that you can store your work as you progress on projects. The following represents a schematic to illustrate how this works. 
+
+ ______________________         _______________________ <br>
 |                      |       |                      |
 | David's Computer     |       |   Jenna's Computer   |   
 |______________________|       |______________________|
