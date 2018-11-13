@@ -3,24 +3,24 @@ Github repository to store code for the dry lab portion of SSB project team's bi
 
 # Github Introduction
 Github is a remote database that you can store your work as you progress on projects. The following represents a schematic to illustrate how this works.
-# ______________________         _______________________
-#|                      |       |                      |
-#| David's Computer     |       |   Jenna's Computer   |   
-#|______________________|       |______________________|
-#                  |  /|\        /|\ |
-#                  |   |          |  | 
-#                 \|/  |          | \|/
-#                 ___________________           
-#                |                    |         
-#                | Github Repository  |           
-#                |____________________|
+ ______________________         _______________________
+|                      |       |                      |
+| David's Computer     |       |   Jenna's Computer   |   
+|______________________|       |______________________|
+                  |   |          | |
+                  |   |          | | 
+                  |   |          | |
+                 ___________________           
+                |                   |         
+                | Github Repository |           
+                |___________________|
 
 All people with access to the repository can download (represented by up arrows) the content of the repository and upload (represented by down arrows) new files and/or edited existing files. However you need to be careful about uploading files that you have changed, as imagine the situation where David changed the file input.txt and Jenna also changed the file input.txt in a different way. This causes what is known as a MERGE CONFLICT, which is when the Github server cannot tell which file to actually use. Therefore, there is a notion of a branch in the github. Heres a diagram of what branches are.
-
+>
                    Jenna's Branch            Changes only in Jenna's branch
                 |------------------------------------------------------> 
 master branch   |
-________________|_________________________________________________________________>
+________________|_________________________________________________________________
  Common files   |                                                     /|\
                 |                                                      |  Push to master
                 |------------------------------------------------------|------> 
